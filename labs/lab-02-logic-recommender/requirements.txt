@@ -1,0 +1,3 @@
+-r ../../requirements.txt
+# SWI-Prolog must also be installed as a system dependency.
+pyswip

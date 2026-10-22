@@ -1,0 +1,50 @@
+{
+  "note": "All listed files are unchanged copies. Notebook filenames were normalized. Nested Lab 2 submission ZIP was unpacked. Old Git metadata is not part of this package.",
+  "files": [
+    {
+      "source": "lab1/Lab_1/ΑΙ_23_ΕΧ1_Team77_03119140_03119135.ipynb",
+      "destination": "labs/lab-01-search/maze_search.ipynb",
+      "sha256": "163ac825129b299fc5028f0762ada7f4ec2a847790a7abbc9164261df5d5efed"
+    },
+    {
+      "source": "lab2/submission/AI_23_EX2.ipynb",
+      "destination": "labs/lab-02-logic-recommender/movie_recommender.ipynb",
+      "sha256": "7693892c0ad65af863cd62af15a6adc4175ef3e5c1bd48b257980d25a4b8e6ff"
+    },
+    {
+      "source": "lab2/submission/db.pl",
+      "destination": "labs/lab-02-logic-recommender/db.pl",
+      "sha256": "1d0753908c15e9713c9f3c5e5602cfc787c2b00741c9615711dca11278705f9d"
+    },
+    {
+      "source": "lab2/Lab_2/ArtificialIntelligence_Ex2/train_ratings.csv",
+      "destination": "labs/lab-02-logic-recommender/train_ratings.csv",
+      "sha256": "ce9fe109ba3c7728148791808e260db45c5cd7278a6e9a9f15dd46288567d35a"
+    },
+    {
+      "source": "lab2/Lab_2/ArtificialIntelligence_Ex2/test_ratings.csv",
+      "destination": "labs/lab-02-logic-recommender/test_ratings.csv",
+      "sha256": "3ce3bba2e781de3dbccfe3f181faeafa883bf40e193803b1c44ea0ccb714bdc6"
+    },
+    {
+      "source": "lab2/Lab_2/ArtificialIntelligence_Ex2/movies_metadata.csv",
+      "destination": "labs/lab-02-logic-recommender/movies_metadata.csv",
+      "sha256": "6cd02bdae5caa0ab0f82a34017f2c6a8c03cd762fb6a758e50b8226b2d3e4d83"
+    },
+    {
+      "source": "lab3/Lab_3/AI_23_Lab3_03119140_03119135.ipynb",
+      "destination": "labs/lab-03-tree-recommender/tree_recommender.ipynb",
+      "sha256": "5d5080924a0578bf7d3896b45e81e7d13215b673dcd907c1d550af6387a8f864"
+    },
+    {
+      "source": "lab3/Lab_3/Artificial_Intelligence_Ex3_data/ratings.csv",
+      "destination": "labs/lab-03-tree-recommender/ratings.csv",
+      "sha256": "7da751fe91d260dd131ef273b73094a7281c8727fcb078f5af6a301f9247979a"
+    },
+    {
+      "source": "lab3/Lab_3/Artificial_Intelligence_Ex3_data/movies_metadata.csv",
+      "destination": "labs/lab-03-tree-recommender/movies_metadata.csv",
+      "sha256": "6cd02bdae5caa0ab0f82a34017f2c6a8c03cd762fb6a758e50b8226b2d3e4d83"
+    }
+  ]
+}
