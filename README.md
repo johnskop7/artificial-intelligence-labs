@@ -1,6 +1,6 @@
 # Artificial Intelligence Labs
 
-Three notebook-based projects for the **Artificial Intelligence** course at the **National Technical University of Athens (NTUA)**, completed in 2023 by **Ioannis Litsos** and **Achilleas Tsimichodimos** (Team 77).
+Three notebook-based projects for the **Artificial Intelligence** course at the **National Technical University of Athens (NTUA)**, completed in 2023 by **Ioannis Litsos** and **Achilleas Tsimichodimos**.
 
 The labs move from search and adversarial planning to symbolic reasoning and supervised learning. Each folder contains an original notebook and the input files it needs. Notebook contents, outputs, embedded figures, and Greek explanations are preserved unchanged; only notebook filenames have been simplified.
 
